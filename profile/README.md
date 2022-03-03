@@ -1,0 +1,7 @@
+# DISCLAIMER
+**This is __not__ the official DanBot Hosting GitHub! This is just a documentation made by the community :).**
+
+## Useful Links
+- [Official GitHub](https://github.com/DanBot-Hosting)
+- [Official GitHub](https://danbot.host)
+- [Official Discord Server]()
