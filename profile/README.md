@@ -6,3 +6,4 @@
 - [Official GitHub](https://danbot.host)
 - [Official Discord Server](https://danbot.host/discord)
 - [Official Panel](https://panel.danbot.host)
+- [Unofficial Documentation](https://docs.danbot-hosting.ga)
