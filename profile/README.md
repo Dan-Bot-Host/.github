@@ -4,4 +4,5 @@
 ## Useful Links
 - [Official GitHub](https://github.com/DanBot-Hosting)
 - [Official GitHub](https://danbot.host)
-- [Official Discord Server]()
+- [Official Discord Server](https://danbot.host/discord)
+- [Official Panel](https://panel.danbot.host)
